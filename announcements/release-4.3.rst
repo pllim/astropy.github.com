@@ -37,7 +37,7 @@ New and improved major functionality in this release includes:
 In addition, hundreds of smaller improvements and fixes have been made.
 An overview of the changes is provided at:
 
-     `https://docs.astropy.org/en/stable/whatsnew/4.3.html <https://docs.astropy.org/en/v4.3.1/whatsnew/4.3.html>`__
+     `https://docs.astropy.org/en/stable/whatsnew/4.3.html <https://docs.astropy.org/en/stable/whatsnew/4.3.html>`__
 
 Instructions for installing Astropy are provided on our
 `website <http://www.astropy.org>`__, and extensive documentation can be
@@ -91,8 +91,8 @@ guide <https://python-3-for-scientists.readthedocs.io/>`__.
 
 If you use Astropy directly for your work, or as a dependency to another
 package, please remember to acknowledge it by citing the appropriate
-Astropy paper. For the most up-to-date suggestions, see :ref:`the
-acknowledgment page <astropy-org-acknowledge>`, but as of this release
+Astropy paper. For the most up-to-date suggestions, see
+:ref:`the acknowledgment page <astropy-org-acknowledge>`, but as of this release
 the recommendation is:
 
 This research made use of Astropy, a community-developed core Python

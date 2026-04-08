@@ -137,8 +137,8 @@ include an acknowledgment in papers and/or presentations. See
 :ref:`Acknowledging & Citing Astropy <astropy-org-acknowledge>` for details.
 
 You can also purchase apparel and trinkets from
-`fashion.astropy.org <http://fashion.astropy.org>`__, and a portion
-of the profits go to support the project!
+`the NumFOCUS shop <https://numfocus.myspreadshop.com/astropy+logo+-+transparent?idea=640f504c3c632427574844b9>`__,
+and a portion of the profits go to support the project!
 
 If you are interested in directly financially supporting Astropy
 (either one-time or recurring), you can do so via our fiscal sponsor
@@ -152,7 +152,7 @@ Awards
 ------
 
 - `Lancelot M. Berkeley–New York Community Trust Prize for Meritorious Work in Astronomy <https://aas.org/press/astropy-collaboration-receive-2025-berkeley-prize>`__ (2025)
-- `IOP Publishing Top Cited Paper Awards North America <https://accreditations.ioppublishing.org/9ce7a38e-8ef1-4aa3-86f4-5760022a1574#gs.0lk076>`__ (2023)
+- `IOP Publishing Top Cited Paper Awards North America <https://accreditations.ioppublishing.org/9ce7a38e-8ef1-4aa3-86f4-5760022a1574>`__ (2023)
 - `ADASS Prize for an Outstanding Contribution to Astronomical Software <https://www.adass.org/softwareprize.html>`__ (2022)
 - `Royal Astronomical Society Group Award (Astronomy) <https://ras.ac.uk/awards-and-grants/awards/2269-group-award-a>`__ (2020)
 

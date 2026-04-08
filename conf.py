@@ -84,3 +84,13 @@ urlretrieve(
     "https://raw.githubusercontent.com/astropy/astropy/refs/heads/main/docs/credits.rst",
     filename="credits.rst",
 )
+
+# Linkcheck
+linkcheck_ignore = [
+    r"https://doi\.org/\d+",
+    # This page has cloudflare captcha on it
+    r"https://aas.org/press/astropy-collaboration-receive-2025-berkeley-prize",
+]
+linkcheck_anchors = False
+linkcheck_timeout = 20
+linkcheck_workers = 10

@@ -75,10 +75,10 @@ far, and you can find out more about the team here:
 
      https://www.astropy.org/team.html
 
-If you use astropy directly for your work, or as a dependency to another
-package, please remember to acknowledge it by citing the appropriate
-Astropy paper. For the most up-to-date suggestions, see `the
-acknowledgement page <../acknowledging.html>`__.
+If you use astropy directly for your work, or as a dependency to
+another package, please remember to acknowledge it by citing the
+appropriate Astropy paper. For the most up-to-date suggestions, see
+:ref:`the acknowledgment page <astropy-org-acknowledge>`.
 
 We hope that you enjoy using astropy as much as we enjoyed developing
 it!

@@ -128,7 +128,7 @@ triaging new issues, responding to new pull requests, and watching
 for and fixing changes that break part of the infrastructure.
 There have been times when that infrastructure has shifted very
 rapidly, such as when `Travis-CI stopped hosting open source
-packages <https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing%20“Travis-CI%20open%20sources%20limits”>`__.
+packages <https://blog.travis-ci.com/2020-11-02-travis-ci-new-billing/>`__.
 Transitioning the entire ecosystem to a new infrastructure
 required substantial effort by a number of people, though it was
 facilitated primarily by a single individual. Indeed, much of this

@@ -1,5 +1,5 @@
 sphinx
 myst-parser
 sphinx-design
-astropy-sphinx-theme@git+https://github.com/Cadair/astropy-sphinx-theme@sunpy-astropy-theme
+astropy-sphinx-theme>=3.0.0
 sphinx-copybutton

@@ -1,0 +1,5 @@
+sphinx
+myst-parser
+sphinx-design
+astropy-sphinx-theme>=3.0.0
+sphinx-copybutton

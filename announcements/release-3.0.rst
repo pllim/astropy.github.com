@@ -14,7 +14,7 @@ core Python package for Astronomy:
     .. image:: /_static/img/astropy_logo_notext.png
         :width: 100px
 
-    http://www.astropy.org
+    https://www.astropy.org
 
 Astropy is a community-driven Python package intended to contain much of
 the core functionality and common tools needed for astronomy and
@@ -52,7 +52,7 @@ bug fixes and support until the Python developers permanently sunset
 Python 2.7 (scheduled for 2019).
 
 Instructions for installing Astropy are provided on our
-`website <http://www.astropy.org>`__, and extensive documentation can be
+`website <https://www.astropy.org>`__, and extensive documentation can be
 found at:
 
      https://docs.astropy.org
@@ -79,7 +79,7 @@ repository:
 Over 253 developers have contributed code to Astropy so far, and you can
 find out more about the team behind Astropy here:
 
-     http://www.astropy.org/team.html
+     https://www.astropy.org/team.html
 
 As a reminder, Astropy v2.0 (our long term support release) will
 continue to be supported with bug fixes until the end 2019, so if you
@@ -96,8 +96,8 @@ package for Astronomy (Astropy Collaboration, 2018).
 
 where (Astropy Collaboration, 2018) is a citation to the `Astropy Paper
 II <https://arxiv.org/abs/1801.02634>`__
-(`ADS <http://adsabs.harvard.edu/abs/2018arXiv180102634T>`__ -
-`BibTeX <http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2018arXiv180102634T&data_type=BIBTEX&db_key=PRE&nocookieset=1>`__).
+(`ADS <https://adsabs.harvard.edu/abs/2018arXiv180102634T>`__ -
+`BibTeX <https://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2018arXiv180102634T&data_type=BIBTEX&db_key=PRE&nocookieset=1>`__).
 
 This paper is still under review, however, and an earlier paper is
 available describing the status of the package at the time of v0.2. If
@@ -109,8 +109,8 @@ package for Astronomy (Astropy Collaboration, 2013, 2018).
 
 where (Astropy Collaboration, 2013) is a citation to the `first Astropy
 Paper <https://doi.org/10.1051/0004-6361/201322068>`__
-(`ADS <http://adsabs.harvard.edu/abs/2013A%26A...558A..33A>`__ -
-`BibTeX <http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2013A%26A...558A..33A&data_type=BIBTEX&db_key=AST&nocookieset=1>`__).
+(`ADS <https://adsabs.harvard.edu/abs/2013A%26A...558A..33A>`__ -
+`BibTeX <https://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2013A%26A...558A..33A&data_type=BIBTEX&db_key=AST&nocookieset=1>`__).
 
 Special thanks to the coordinator for this release: Brigitta Sipocz.
 

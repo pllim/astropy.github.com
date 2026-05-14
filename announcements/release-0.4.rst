@@ -8,7 +8,7 @@ Dear colleagues,
 We are very happy to announce the third major public release (v0.4) of
 the astropy package, a core Python package for Astronomy:
 
-http://www.astropy.org
+https://www.astropy.org
 
 Astropy is a community-driven package intended to contain much of the
 core functionality and common tools needed for performing astronomy and
@@ -32,7 +32,7 @@ An overview of the changes is provided at:
      https://docs.astropy.org/en/stable/whatsnew/0.4.html
 
 Instructions for installing Astropy are provided on our
-`website <http://www.astropy.org>`__, and extensive documentation can be
+`website <https://www.astropy.org>`__, and extensive documentation can be
 found at:
 
      https://docs.astropy.org
@@ -51,7 +51,7 @@ repository:
 Over 80 developers have contributed code to Astropy so far, and you can
 find out more about the team behind Astropy here:
 
-     http://www.astropy.org/team.html
+     https://www.astropy.org/team.html
 
 If you use Astropy directly - or as a dependency to another package -
 for your work, please remember to include the following acknowledgment
@@ -62,8 +62,8 @@ package for Astronomy (Astropy Collaboration, 2013).
 
 where (Astropy Collaboration, 2013) is a citation to the `Astropy
 Paper <https://doi.org/10.1051/0004-6361/201322068>`__
-(`ADS <http://adsabs.harvard.edu/abs/2013A%26A...558A..33A>`__ -
-`BibTeX <http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2013A%26A...558A..33A&data_type=BIBTEX&db_key=AST&nocookieset=1>`__).
+(`ADS <https://adsabs.harvard.edu/abs/2013A%26A...558A..33A>`__ -
+`BibTeX <https://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2013A%26A...558A..33A&data_type=BIBTEX&db_key=AST&nocookieset=1>`__).
 
 Please feel free to forward this announcement to anyone you think might
 be interested in this release.

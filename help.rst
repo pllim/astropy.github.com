@@ -19,11 +19,11 @@ most comfortable with.
   project, but the ``#community-help`` channel is a good place for
   users to seek help from the Astropy community.
 - `Astropy Users Email List
-  [astropy@python.org] <http://mail.python.org/mailman/listinfo/astropy>`__
+  [astropy@python.org] <https://mail.python.org/mailman/listinfo/astropy>`__
   - Post questions or start discussions about anything related to
   Python programming applied to astronomy.
 - `Astropy Developers Email List
-  [astropy-dev@googlegroups.com] <http://groups.google.com/group/astropy-dev>`__
+  [astropy-dev@googlegroups.com] <https://groups.google.com/group/astropy-dev>`__
   - Start discussions and ask questions about changing or adding
   functionality to the ``astropy`` package. This is also the place
   where significant announcements for contributors/developers are

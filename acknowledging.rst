@@ -18,8 +18,8 @@ If you use Astropy Project tools and resources for work/research presented in a 
 We encourage you to cite all three papers, but if space is limited, please cite the most recent paper:
 
 - `Astropy Paper III (v5.0) <https://arxiv.org/abs/2206.14220>`__ (`ADS <https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A>`__ - `BibTeX <https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A/exportcitation>`__)
-- `Astropy Paper II (v2.0) <https://arxiv.org/abs/1801.02634>`__ (`ADS <http://adsabs.harvard.edu/abs/2018arXiv180102634T>`__ - `BibTeX <https://ui.adsabs.harvard.edu/abs/2018AJ....156..123A/exportcitation>`__)
-- `Astropy Paper I (v0.2) <https://doi.org/10.1051/0004-6361/201322068>`__ (`ADS <http://adsabs.harvard.edu/abs/2013A%26A...558A..33A>`__ - `BibTeX <https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/exportcitation>`__ - :ref:`10k citations <astropy-org-paper-10k>`)
+- `Astropy Paper II (v2.0) <https://arxiv.org/abs/1801.02634>`__ (`ADS <https://adsabs.harvard.edu/abs/2018arXiv180102634T>`__ - `BibTeX <https://ui.adsabs.harvard.edu/abs/2018AJ....156..123A/exportcitation>`__)
+- `Astropy Paper I (v0.2) <https://doi.org/10.1051/0004-6361/201322068>`__ (`ADS <https://adsabs.harvard.edu/abs/2013A%26A...558A..33A>`__ - `BibTeX <https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/exportcitation>`__ - :ref:`10k citations <astropy-org-paper-10k>`)
 
 .. raw:: html
 
@@ -37,7 +37,7 @@ If you are submitting an article to another journal, or have no other specific p
 
 .. code-block:: latex
 
-   This work made use of Astropy: \footnote{http://www.astropy.org} a community-developed core Python package and an ecosystem of tools and resources for astronomy \citep{astropy:2013, astropy:2018, astropy:2022}.
+   This work made use of Astropy: \footnote{https://www.astropy.org} a community-developed core Python package and an ecosystem of tools and resources for astronomy \citep{astropy:2013, astropy:2018, astropy:2022}.
 
 As an alternative, the BibTeX record recommended for a given version of Astropy is available from the Python package itself:
 
@@ -54,7 +54,11 @@ If you are giving a presentation or talk featuring work/research that makes use 
 
 |Powered by Astropy|
 
-The logo is also available `with white text <http://www.astropy.org/images/astropy_powered_white.png>`__, or the SVG originals can be obtained at the `astropy-logo github repository. <http://github.com/astropy/astropy-logo>`__
+The logo is also available with white text:
+
+|Powered by Astropy with white text|
+
+The SVG originals can be obtained at the `astropy-logo github repository <https://github.com/astropy/astropy-logo>`__.
 
 In Projects
 -----------
@@ -63,16 +67,18 @@ We suggest this badge:
 
 |Powered by Astropy Badge|
 
-Which is available at the URL http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
+Which is available at the URL https://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
 You can place the following in your ``README.md`` file to get the badge:
 
 .. code-block:: markdown
 
-    [![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
+    [![astropy](https://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](https://www.astropy.org/)
 
-.. |Powered by Astropy| image:: http://www.astropy.org/images/astropy_powered.png
+.. |Powered by Astropy| image:: _static/img/astropy_powered.png
    :width: 256px
-.. |Powered by Astropy Badge| image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
+.. |Powered by Astropy with white text| image:: _static/img/astropy_powered_white.png
+   :width: 256px
+.. |Powered by Astropy Badge| image:: https://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
 
 
 .. raw:: html
@@ -81,7 +87,7 @@ You can place the following in your ``README.md`` file to get the badge:
     function copyBibtex() {
       var bibtex2013 = `@article{astropy:2013,
           Adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-          Adsurl = {http://adsabs.harvard.edu/abs/2013A%26A...558A..33A},
+          Adsurl = {https://adsabs.harvard.edu/abs/2013A%26A...558A..33A},
           Archiveprefix = {arXiv},
           Author = {{Astropy Collaboration} and {Robitaille}, T.~P. and {Tollerud}, E.~J. and {Greenfield}, P. and {Droettboom}, M. and {Bray}, E. and {Aldcroft}, T. and {Davis}, M. and {Ginsburg}, A. and {Price-Whelan}, A.~M. and {Kerzendorf}, W.~E. and {Conley}, A. and {Crighton}, N. and {Barbary}, K. and {Muna}, D. and {Ferguson}, H. and {Grollier}, F. and {Parikh}, M.~M. and {Nair}, P.~H. and {Unther}, H.~M. and {Deil}, C. and {Woillez}, J. and {Conseil}, S. and {Kramer}, R. and {Turner}, J.~E.~H. and {Singer}, L. and {Fox}, R. and {Weaver}, B.~A. and {Zabalza}, V. and {Edwards}, Z.~I. and {Azalee Bostroem}, K. and {Burke}, D.~J. and {Casey}, A.~R. and {Crawford}, S.~M. and {Dencheva}, N. and {Ely}, J. and {Jenness}, T. and {Labrie}, K. and {Lim}, P.~L. and {Pierfederici}, F. and {Pontzen}, A. and {Ptak}, A. and {Refsdal}, B. and {Servillat}, M. and {Streicher}, O.},
           Doi = {10.1051/0004-6361/201322068},
